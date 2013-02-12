@@ -2,8 +2,12 @@
 	background : black;
 	padding : 1px 10px;
 	}
+<<<<<<< HEAD
 div.resume {
 text-align: center}
+=======
+
+>>>>>>> 81bca001155fc1b31c32646f7b64943f45cf8a67
 .welcome_header { 
 	text-align:center; 
 	font-weight:bold; 
@@ -12,6 +16,7 @@ text-align: center}
 	font-size: 40pt;
 	}
 
+<<<<<<< HEAD
 h1.resume {
 	color: black;
 	font-size: 36pt;
@@ -27,6 +32,9 @@ h2.resume {	color: black;
 	text-align:center;
 	margin-top: 15px;
 	margin-bottom: 0px; }
+=======
+
+>>>>>>> 81bca001155fc1b31c32646f7b64943f45cf8a67
 
 #sidebar {
 background : #303030;
@@ -44,6 +52,7 @@ body
 	text-align: center;
 	}
 
+<<<<<<< HEAD
 body.resume
 {
 	color: black;
@@ -53,6 +62,8 @@ body.resume
 	text-align: center;
 	}
 	
+=======
+>>>>>>> 81bca001155fc1b31c32646f7b64943f45cf8a67
 h1 { font-weight:bold; text-align:center; color: indigo}	
 
 h2 {font-weight:bold; text-align:center; color:#FDD023}
@@ -71,7 +82,11 @@ a {text-decoration:none; }
 a:link, a:visited { color:black; font-weight: bold;}
 a:hover, a:active {text-decoration:underline; color:yellow; font-weight: bold; }
 
+<<<<<<< HEAD
 #megan {background-color:plum; border:4px solid #FDD023; width:950px; margin: 0 auto;}
+=======
+#megan {background-color:plum; border:4px solid #FDD023; width:80%; margin: 0 auto;}
+>>>>>>> 81bca001155fc1b31c32646f7b64943f45cf8a67
 
 #footer {color:plum; clear:both; padding: 5px 10px; }
 #footer p {margin:0; font-size: 9pt; font-style: italic; text-align: center;}
@@ -106,6 +121,15 @@ background: #FDD023;
 	text-align: center;
 	border:4px solid #FDD023}
 
+<<<<<<< HEAD
+=======
+#sidebar {
+background : #303030;
+float : left;
+width : 300px;
+padding : 10px;
+}
+>>>>>>> 81bca001155fc1b31c32646f7b64943f45cf8a67
 
 	
 #nav {
