@@ -1,0 +1,39 @@
+#nav {display: none;}
+
+body
+{	color: black;
+	font-family: Veranda; Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12pt;	
+	background-color: white;
+	text-align: left;
+	}
+
+body.resume
+{color: black;
+	font-family: Veranda; Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12pt;	
+	background-color: white;
+	text-align: left;
+	}
+	
+p { color: black; font-size: 12pt;}
+
+ul {margin: 0;
+padding: 0;
+}
+li {margin-left: 20px;
+	margin-right: 20px;
+	padding: 0; }
+
+a {text-decoration:none; }
+a:link, a:visited { color:black; font-weight: bold;}
+a:hover, a:active {color:black; font-weight: bold; }
+
+.Buttons{
+display: none;}
+
+#main {
+	display: none;}
+
+
+
